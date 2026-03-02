@@ -29,6 +29,40 @@ Enter command (add/list/remove/quit): add
 Task: Buy groceries
 Added: Buy groceries
 
+🧪 Testing
+Run unit tests:
+python -m unittest discover tests
+
+
+
+
+📂 Project Structure
+todo-cli/
+│── README.md
+│── requirements.txt
+│── .gitignore
+│── todo.py
+│── tests/
+    └── test_todo.py
+
+
+
+
+🏷 Badges
+https://img.shields.io/badge/python-3.8%2B-blue https://img.shields.io/badge/license-MIT-green https://img.shields.io/github/last-commit/Alisha151/todo-cli
+
+---
+
+## ✅ Next Steps
+1. Create the file:
+   ```bash
+   nano README.md
+
+
+- 
+
+
+
 
 
 
